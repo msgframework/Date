@@ -1,0 +1,14 @@
+{
+  "name": "msgframework/date",
+  "description": "description",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MSGroupFM",
+      "email": "admin@msgru.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
