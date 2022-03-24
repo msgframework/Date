@@ -8,6 +8,11 @@
       "email": "admin@msgru.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Msgframework\\Lib\\Date\\": ""
+    }
+  },
   "require": {
     "php": ">=7.4",
     "msgframework/language": "^1.0"
